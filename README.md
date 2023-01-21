@@ -2,7 +2,7 @@
 Intro to programming in python
 
 
-functions variables - write code for smaller problm and use smaller prblm to solve big problm.
+functions variables - write code for smaller problm and use smaller prblm to solve big problm.        
 Conditional - way of experssing logically.
 loop - execute code again again.
 exceptions - handling fault  errors of code.
